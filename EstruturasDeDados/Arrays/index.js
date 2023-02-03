@@ -1,4 +1,5 @@
-console.log("Arrays")
+
+
 
 //Arrays : é uma Lista
 //Acessado: sempre pelo indice.
