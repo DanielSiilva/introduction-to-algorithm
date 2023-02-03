@@ -6,14 +6,14 @@ const A = [ 0, 2, 3];
 console.log([A[0], A[2]])
 
 // ---------------------------------
-console.log('---Acessando todos os elemento: For -----')
+console.log('---Acessando todos os elementos: For -----')
 
 for( let i =0; i < A.length ; i++){
     console.log(A[i])
 }
 
 // ---------------------------------
-console.log('---Acessando todos os elemento: Map -----')
+console.log('---Acessando todos os elementos: Map -----')
 
 console.log(A.map(item => item))
 
